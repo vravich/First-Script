@@ -5,6 +5,7 @@ Resource  Resources/Tools.robot
 Resource  Resources/PO/Tools/InteractiveRead.robot
 Resource  Resources/MeterManagement.robot
 Resource  Resources/PO/MeterManagement/ConfigurationMgmt.robot
+Resource  Resources/PO/Tools/Operations/ReadFirmwareVersions.robot
 
 
 *** Variables ***
@@ -38,4 +39,15 @@ Configuration download
     ConfigurationMgmt.Save Settings
     ConfigurationMgmt.Close Edit
     ConfigurationMgmt.ConfigManagement Create Report
+
+Read Firmware Version
+    [Documentation]  Testing Read firmware version
+    [Tags]  ReadFirmwareVersion
+    Common.Login
+    Tools.Tools Main Page
+    Tools.Operations
+    ReadFirmwareVersions.Navigate to Read Firmware Version
+    ReadFirmwareVersions.Add meter in popup
+
+
 
