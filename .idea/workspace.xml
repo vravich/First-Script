@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8b98ecf-de49-4d0f-9647-ff2babd2ff8c" name="Default Changelist" comment="" />
+    <list default="true" id="a8b98ecf-de49-4d0f-9647-ff2babd2ff8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +31,7 @@
         <counts>
           <entry key="html" value="2" />
           <entry key="png" value="5" />
-          <entry key="robot" value="189" />
+          <entry key="robot" value="190" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -37,7 +39,7 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="Image" value="5" />
-          <entry key="Robot Feature" value="189" />
+          <entry key="Robot Feature" value="190" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -84,29 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/PO/Tools/Operations/ReadFirmwareVersions.robot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="187">
               <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/PO/Administration/Users.robot">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/PO/MeterManagement/FirmwareManagment.robot">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -217,13 +210,6 @@
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
               <item name="PO" type="462c0819:PsiDirectoryNode" />
               <item name="Administration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="First-Script" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First-Script" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="PO" type="462c0819:PsiDirectoryNode" />
-              <item name="MeterManagement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="First-Script" type="b2602c69:ProjectViewProjectNode" />
@@ -678,20 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/PO/Tools/Operations/ReadFirmwareVersions.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/PO/Administration/Users.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/PO/Reporting/FirmwareVersions.robot">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -705,7 +677,21 @@
     <entry file="file://$PROJECT_DIR$/Resources/PO/MeterManagement/FirmwareManagment.robot">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/PO/Administration/Users.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/PO/Tools/Operations/ReadFirmwareVersions.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
