@@ -25,3 +25,4 @@ InteractiveRead_Ping
     wait until page contains element  xpath=//*[@id="toast-container"]/div/div[2]
     click link  xpath=//*[@id="ctl00__PH__tcMoreInformation"]/div[1]/nobr/ul/li[5]/a
     wait until page contains  Ping Node
+
